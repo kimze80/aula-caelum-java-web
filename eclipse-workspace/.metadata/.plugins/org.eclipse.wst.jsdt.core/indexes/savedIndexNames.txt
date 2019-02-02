@@ -1,0 +1,10 @@
+INDEX VERSION 1.4+/home/web8036/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1954840494.index
+412314907.index
+409742058.index
+17584531.index
+2739367148.index
+3673340660.index
+355581979.index
+1226679184.index
+84093931.index
